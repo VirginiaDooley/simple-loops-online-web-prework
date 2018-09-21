@@ -16,7 +16,7 @@ def times_iterator(number_of_times)
 end
 
 def while_iterator(number_of_times)
-  counter = 0
+  number_of_times = 0
   while 
   puts "Welcome to Flatiron School's Web Development Course!"
   
